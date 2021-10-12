@@ -1,0 +1,8 @@
+@startuml
+
+class App {
+    +void main()
+    +sortArray()
+}
+
+@enduml

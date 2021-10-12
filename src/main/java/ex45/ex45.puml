@@ -1,0 +1,10 @@
+@startuml
+
+class App {
+    +void main()
+    +newFile()
+    +readFile()
+    +replace()
+}
+
+@enduml
